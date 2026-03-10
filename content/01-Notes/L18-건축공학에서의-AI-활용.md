@@ -1,5 +1,4 @@
 ---
-draft: true
 date: "2026-05-04"
 tags:
   - lecture
@@ -74,4 +73,4 @@ next: "[[L19-건축환경-김곤-1]]"
 - **다음 강의**: [[L19-건축환경-김곤-1]]
 - **관련 주제**: [[L17-AI-기초-개념]], [[L25-LLM-기본-개념]]
 - **강의일정**: [[00-Syllabus/강의일정_2026-1|강의일정표]]
-- **MOC**: [[600-DevProjects/Deploy-Lecture-Note/건축공학개론/content/_MOC|건축공학개론 MOC]]
+- **MOC**: [[400-Lab/_MOC]]
