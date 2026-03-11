@@ -16,6 +16,7 @@ lecture_type:
   - 이론
 prev: "[[L16-중간고사]]"
 next: "[[L18-건축공학에서의-AI-활용]]"
+draft: true
 ---
 
 # L17. AI 기초 개념

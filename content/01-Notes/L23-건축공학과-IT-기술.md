@@ -17,6 +17,7 @@ lecture_type:
   - 이론
 prev: "[[L22-BIM-활용과-국내-동향]]"
 next: "[[L24-디지털-트윈과-신기술]]"
+draft: true
 ---
 
 # L23. 건축공학과 IT 기술

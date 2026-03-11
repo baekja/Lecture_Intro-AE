@@ -17,6 +17,7 @@ lecture_type:
   - 실습
 prev: "[[L17-AI-기초-개념]]"
 next: "[[L19-건축환경-김곤-1]]"
+draft: true
 ---
 
 # L18. 건축공학에서의 AI 활용

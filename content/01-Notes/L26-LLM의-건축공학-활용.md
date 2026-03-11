@@ -18,6 +18,7 @@ lecture_type:
   - 실습
 prev: "[[L25-LLM-기본-개념]]"
 next: "[[L27-스마트-빌딩]]"
+draft: true
 ---
 
 # L26. LLM의 건축공학 활용

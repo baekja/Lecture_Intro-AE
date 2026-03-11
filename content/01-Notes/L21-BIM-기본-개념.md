@@ -16,6 +16,7 @@ lecture_type:
   - 이론
 prev: "[[L20-건축환경-김곤-2]]"
 next: "[[L22-BIM-활용과-국내-동향]]"
+draft: true
 ---
 
 # L21. BIM 기본 개념

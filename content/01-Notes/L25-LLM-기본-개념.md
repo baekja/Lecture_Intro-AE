@@ -17,6 +17,7 @@ lecture_type:
   - 이론
 prev: "[[L24-디지털-트윈과-신기술]]"
 next: "[[L26-LLM의-건축공학-활용]]"
+draft: true
 ---
 
 # L25. LLM 기본 개념
