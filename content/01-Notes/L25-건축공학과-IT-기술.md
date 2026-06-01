@@ -65,7 +65,7 @@ flowchart LR
 | 4세대 (2010s) | 스마트 건설(IoT·클라우드) | 실시간 데이터 | 데이터 폭증, 분석 미흡 |
 | 5세대 (2020s~) | 디지털 트윈·AI | 자율 최적화 | 보안·표준화 과제 |
 
-![[L25/posco-smart-construction.jpg|600]]
+![[posco-smart-construction.jpg|600]]
 *포스코이앤씨의 스마트 건설 통합 대시보드 — AI와 건설자동화로 현장을 원격 관리 — 출처: POSCO 뉴스룸 (2025)*
 
 > [!ref] 도입 영상 — 한국어
@@ -123,14 +123,14 @@ flowchart TD
 | **③ 장비·자재 관리** | 위치·가동률·도난 방지 | GPS, RFID, UWB, LoRaWAN | 타워크레인, 지게차, 자재 QR 추적 |
 | **④ 작업자 안전** | 위치·생체·낙상 감지 | GPS, 가속도, 심박, 자이로 | 스마트 안전모, 스마트 밴드, 가상 펜스 |
 
-![[L25/shm-bridge-monitoring.png|600]]
+![[shm-bridge-monitoring.png|600]]
 *교량 구조건전성 모니터링(SHM) 시스템 — 가속도·변위·변형률 센서가 실시간으로 교량 거동을 측정 — 출처: Dewesoft*
 
 #### 스마트 안전모(Smart Helmet) — 가장 빠르게 확산되는 웨어러블
 
 스마트 안전모는 기존 안전모에 **GPS·가속도·가스·심박 센서**를 통합한 IoT 디바이스다. 작업자 위치·낙하 감지·생체 이상을 **실시간 중앙 모니터링**으로 전송한다.
 
-![[L25/lansitec-helmet-worker.jpg|600]]
+![[lansitec-helmet-worker.jpg|600]]
 *실제 작업자가 착용한 Lansitec 스마트 안전모 — LoRaWAN 기반 위치 추적, SOS 버튼, 낙상 감지 내장 — 출처: Lansitec 공식*
 
 | 기능 | 센서 | 목표 이벤트 |
@@ -160,7 +160,7 @@ flowchart TD
 
 건설 중장비는 이미 **움직이는 IoT 노드**가 되었다. Komatsu(일본)·Caterpillar(미국)·현대두산인프라코어(한국)는 전 장비에 통신 모듈을 장착해 원격 가동률·연료·정비·위치를 관리한다.
 
-![[L25/komatsu-autonomous-excavator.jpg|600]]
+![[komatsu-autonomous-excavator.jpg|600]]
 *Komatsu Smart Construction의 자율/반자율 건설장비 — GPS·센서 기반 정밀 토공, 원격 관제 — 출처: Komatsu 공식*
 
 | 국내외 사례 | 기술 | 효과 |
@@ -169,7 +169,7 @@ flowchart TD
 | **현대건설 원격 타워크레인** | 5G 원격 조작 + CCTV | 고소작업자 안전, 인력 효율 |
 | **CAT Connect / VisionLink** | 차량 텔레매틱스 | 장비 가동률·연료·정비 관리 |
 
-![[L25/hyundai-hios-safety.jpg|600]]
+![[hyundai-hios-safety.jpg|600]]
 *현대건설 HIoS(HI-iSMART) 통합 안전관제 — IoT·AI·CCTV를 통합해 현장 이상징후를 사전 감지 — 출처: Daily CNC*
 
 > [!ref] 참고 영상
@@ -189,7 +189,7 @@ flowchart TD
 | **PaaS**(Platform) | 개발·배포 환경 | Autodesk Platform Services(APS) |
 | **SaaS**(Software) | 완성된 앱 구독 | Autodesk Construction Cloud, Procore |
 
-![[L25/cloud-based-bim-diagram.webp|650]]
+![[cloud-based-bim-diagram.webp|650]]
 *클라우드 기반 BIM — 설계자·시공자·발주처가 중앙 서버의 단일 모델을 공유하며 동시 작업 — 출처: United BIM*
 
 #### 주요 글로벌 건설 클라우드 플랫폼
@@ -202,7 +202,7 @@ flowchart TD
 | **Procore** | Procore | 일정·비용·품질·안전 통합. 북미 점유율 1위 |
 | **Oracle Aconex** | Oracle | 대형 프로젝트·정부기관 중심 |
 
-![[L25/autodesk-acc-admin-ui.png|650]]
+![[autodesk-acc-admin-ui.png|650]]
 *Autodesk Construction Cloud(ACC) 계정·프로젝트 관리 UI — 도면·모델·이슈를 중앙에서 통합 관리 — 출처: Autodesk 공식 학습센터*
 
 #### 국내 건설 클라우드
@@ -252,14 +252,14 @@ flowchart LR
 | **Dalux Field** | Dalux | BIM 모바일 뷰어·검측 |
 | **OpenSpace / Holobuilder** | OpenSpace | 360° 카메라 자동 공정 기록 |
 
-![[L25/procore-mobile-ui.png|600]]
+![[procore-mobile-ui.png|600]]
 *Procore 모바일 앱 — 현장에서 태블릿·스마트폰으로 일정·도면·품질 통합 관리 — 출처: Procore 공식*
 
 #### 360° 사진 기반 공정 기록 — OpenSpace·Holobuilder
 
 작업자가 **헬멧에 360° 카메라를 달고** 현장을 한 바퀴 돌면, 앱이 자동으로 BIM 좌표와 매칭해 "그 시점 그 위치의 파노라마"를 저장한다. Google Street View의 건설 버전이다.
 
-![[L25/openspace-360-capture.png|650]]
+![[openspace-360-capture.png|650]]
 *OpenSpace 360° 건설 공정 기록 — 헬멧 카메라가 자동으로 위치·시점 매칭된 파노라마 생성 — 출처: OpenSpace 공식*
 
 | 가치 | 설명 |
@@ -308,10 +308,10 @@ flowchart TD
 | **외벽 점검** | 로프공·곤돌라 | 고해상도 줌 + AI 균열 탐지 | 안전↑, 비용 50% 절감 |
 | **재해 대응** | 현장 접근 곤란 | 즉시 출동, 열화상 촬영 | 인명 구조 지원 |
 
-![[L25/drone-photogrammetry.jpg|650]]
+![[drone-photogrammetry.jpg|650]]
 *드론 사진측량(Photogrammetry)으로 생성된 정사영상과 3D 지형 — 수백 장의 겹친 항공사진을 SfM 알고리즘으로 3D 재구성 — 출처: Volatus Aerospace*
 
-![[L25/drone-facade-crack.webp|600]]
+![[drone-facade-crack.webp|600]]
 *드론 기반 외벽 균열 자동 탐지 — 고소작업자 없이 고해상도 영상 촬영 + AI 분석 — 출처: Mavdrones*
 
 > [!ref] 참고 영상 — 국내
@@ -324,10 +324,10 @@ flowchart TD
 
 **LiDAR**(Light Detection And Ranging)는 레이저 펄스로 대상까지의 거리를 측정해 **초당 수십만~수백만 점**의 3D 좌표를 만든다. 결과물을 **Point Cloud(점군)**라 하며, 이것을 BIM 모델로 전환하는 작업이 **Scan-to-BIM**이다.
 
-![[L25/lidar-point-cloud-faro.jpg|650]]
+![[lidar-point-cloud-faro.jpg|650]]
 *FARO 지상 레이저 스캐너의 3D 점군(Point Cloud) 결과 — 수억 개 점으로 공간 전체를 재현 — 출처: FARO 공식*
 
-![[L25/scan-to-bim-process.jpg|700]]
+![[scan-to-bim-process.jpg|700]]
 *Scan-to-BIM 워크플로우 — 레이저 스캔 → Point Cloud 정합 → BIM 모델 역설계 — 출처: QeCAD*
 
 | 장비 유형 | 특징 | 대표 기기 | 건설 용도 |
@@ -377,7 +377,7 @@ flowchart LR
 
 #### VR — 설계 리뷰와 안전교육
 
-![[L25/vr-architecture-walkthrough.jpg|650]]
+![[vr-architecture-walkthrough.jpg|650]]
 *VR 헤드셋으로 BIM 모델 내부를 실시간 워크스루 — 착공 전 공간감·동선·채광 검증 — 출처: Plus Render*
 
 | 건설 VR 적용 | 내용 | 효과 |
@@ -391,7 +391,7 @@ flowchart LR
 
 **AR**은 스마트폰·태블릿 카메라로 현장을 보면 **화면 위에 BIM 모델·정보가 덧씌워지는** 기술이다. Apple ARKit(iPad)과 Gamma AR·vGIS·Trimble SiteVision이 대표적이다.
 
-![[L25/ar-bim-overlay-site.jpg|650]]
+![[ar-bim-overlay-site.jpg|650]]
 *Gamma AR의 BIM 모델 현장 오버레이 — 태블릿 카메라 너머로 설치 예정 배관·덕트가 입체로 보임 — 출처: AEC Magazine*
 
 | AR 적용 | 예 |
@@ -408,10 +408,10 @@ flowchart LR
 
 **MR**(혼합현실)은 사용자가 **홀로그램과 상호작용**할 수 있다는 점에서 AR과 다르다. Microsoft HoloLens 2가 사실상 표준이다.
 
-![[L25/hololens-bim-overlay.png|650]]
+![[hololens-bim-overlay.png|650]]
 *HoloLens 2를 착용한 현장 엔지니어가 MEP BIM 모델을 실물 배경 위에 홀로그램으로 확인 — 출처: Engineering.com / Holotech Solutions*
 
-![[L25/trimble-xr10-hardhat.png|550]]
+![[trimble-xr10-hardhat.png|550]]
 *Trimble XR10 — HoloLens 2를 안전모에 통합한 ANSI 인증 하드햇. 건설·중공업 현장 전용 MR 기기 — 출처: BuildingPoint (Trimble 공인 파트너)*
 
 | MR 적용 | 효과 |
@@ -448,7 +448,7 @@ flowchart LR
 | **구조 안전** | 실시간 SHM 데이터 | 조작 시 사고 위장 |
 | **금융** | 자금 집행, 공사비 내역 | 랜섬웨어 협박 |
 
-![[L25/bim-cybersecurity.jpg|650]]
+![[bim-cybersecurity.jpg|650]]
 *BIM 데이터 사이버 보안 — 설계·시공·운영 전 생애주기 데이터 보호 필요 — 출처: Technostruct Academy*
 
 #### 주요 국내 규제
