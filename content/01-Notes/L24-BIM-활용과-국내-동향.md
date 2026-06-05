@@ -185,7 +185,7 @@ BIM 모델이 변경되면 평면/입면/단면, 물량표, 상세도가 **자�
 
 기존 건물(도면 없음/부정확)을 3D 스캐너(LiDAR, 포토그래메트리)로 측량하여 점군(point cloud)을 생성 → BIM 모델로 변환한다. 리모델링·문화재 보존에 필수.
 
-![[scan-to-bim-process.jpg|600]]
+![[scan-to-bim-united.jpg|600]]
 *Scan-to-BIM 프로세스 — 3D 레이저 스캐너로 취득한 점군(point cloud)을 BIM 객체로 모델링 — 출처: United BIM*
 
 ```mermaid
@@ -543,7 +543,7 @@ flowchart LR
 | `5d-bim-cost.jpg` | 5D BIM 물량·공사비 자동화 | [Conserve Solution](https://www.conservesolution.com/blog/roles-and-benefits-of-5d-bim-cost-estimation-and-quantity-take-offs/) |
 | `ar-hololens-bim.jpg` | AR/MR 현장 BIM 활용 | [INCIDE](https://www.incide.it/en/the-construction-site-management-between-simulation-and-virtualization/) |
 | `facility-management-bim.jpg` | BIM FM 대시보드 | [Constructing Excellence](https://constructingexcellence.org.uk/digital-twins-for-effective-facilities-management/) |
-| `scan-to-bim-process.jpg` | Scan-to-BIM 프로세스 | [United BIM](https://www.united-bim.com/walk-through-of-point-cloud-to-bim-process/) |
+| `scan-to-bim-united.jpg` | Scan-to-BIM 프로세스 | [United BIM](https://www.united-bim.com/walk-through-of-point-cloud-to-bim-process/) |
 | `lod-levels-comparison.jpg` | LOD 100~500 단계별 모델 비교 | [United BIM](https://www.united-bim.com/bim-level-of-development-lod-100-200-300-350-400-500/) |
 | `korea-bim-mandate-news.jpg` | "2025년 전면 BIM 설계" 정책 발표 | [뉴시스 / 국토교통부](https://mobile.newsis.com/view/NISX20201228_0001285013) |
 | `lotte-world-tower-bim.jpg` | 롯데월드타워 Tekla BIM 모델 | [Tekla / Trimble](https://www.tekla.com/bim-awards/lotte-world-tower-south-korea) |
