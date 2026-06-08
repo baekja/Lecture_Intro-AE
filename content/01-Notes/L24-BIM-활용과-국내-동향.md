@@ -17,6 +17,7 @@ lecture_type:
   - 실습
 prev: "[[L23-BIM-기본-개념]]"
 next: "[[L25-건축공학과-IT-기술]]"
+draft: false
 ---
 
 # L24. BIM 활용과 국내 동향

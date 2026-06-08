@@ -16,6 +16,7 @@ lecture_type:
   - 이론
 prev: "[[L22-LLM의-건축공학-활용]]"
 next: "[[L24-BIM-활용과-국내-동향]]"
+draft: false
 ---
 
 # L23. BIM 기본 개념
